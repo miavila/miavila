@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @miavila
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning React
+- :trollface: I like it Machine Learning
 
 
 <!---
